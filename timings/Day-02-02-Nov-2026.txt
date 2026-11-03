@@ -2,5 +2,7 @@
 
 # 30 mins -  I have written the all codes.
 
+# 1 hours - i have used the commands on window powershell - ls, ls -laSht, cd, mkdir, touch, pwd, cat, rm -r, rmdir, mkdir Saif{1..100}, head, tail, mv, chmod.
+
 # 5 mins - I have commented on Linux 1st day video.
 
